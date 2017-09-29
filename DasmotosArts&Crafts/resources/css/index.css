@@ -1,0 +1,51 @@
+*{
+box-sizing: border-box;
+}
+
+#banner{
+  background-image: url("file://C:/Users/office/Desktop/DevProject/DasmotosArts&Crafts/resources/images/pattern.jpeg");
+  background-position: auto;
+  width: 100%;
+}
+
+body{
+  font-family: Helvetica;
+}
+
+#banner .header h1{
+  margin: 0 auto;
+  width: 100%;
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  color: white;
+}
+
+.brushes{
+  background-color: mediumspringgreen;
+}
+
+.frames{
+  background-color: lightcoral;
+  font-size: 32px
+  color: white
+}
+
+.paint{
+  background-color: skyblue;
+  font-size: 32px
+  color: white
+}
+
+.price{
+  color: blue;
+  font-weight: bold;
+}
